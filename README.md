@@ -45,9 +45,9 @@
 [代码链接](https://github.com/H874589148/ScreenShot-Character-Recognition/)
 
 ## 微信自动回复机器人
-[页面链接](https://h874589148.github.io/README.md-write/)<br>
-[代码链接](https://github.com/H874589148/data-structure)
+[页面链接](https://h874589148.github.io/WeChat-chat-robot/)<br>
+[代码链接](https://github.com/H874589148/WeChat-chat-robot/)
 
 ## python绘图
-[页面链接](https://h874589148.github.io/README.md-write/)<br>
-[代码链接](https://github.com/H874589148/data-structure)
+[页面链接](https://h874589148.github.io/python-turtle-learning/)<br>
+[代码链接](https://github.com/H874589148/python-turtle-learning)
